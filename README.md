@@ -1,4 +1,4 @@
-# Hi, I'm Alberto 👋  
+# Hi, I'm Antonior 👋  
 
 I'm a Software Engineer focused on building useful, scalable, and clean applications.  
 I enjoy working with modern tech, learning new tools, and solving real problems that help people.
@@ -19,9 +19,8 @@ AWS, Azure, Git, GitHub, Docker, Kubernetes, CI CD, Figma, Scrum
 
 ## 📬 You can reach me at
 
-- **E mail** → aescalante93526@gmail.com  
-- **LinkedIn** → https://www.linkedin.com/in/alberto-escalante-397b07397/    
-- **Portfolio** → https://alhiky-es.github.io/alhiky-es-portfolio/      
+- **E mail** → antonioeleazer397@gmail.com  
+- **LinkedIn** → https://www.linkedin.com/in/antonio-eleazer-425095397          
 
 
 ## ⭐ About Me
