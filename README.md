@@ -1,4 +1,4 @@
-# Hi, I'm Antonior 👋  
+# Hi, I'm Antonio 👋  
 
 I'm a Software Engineer focused on building useful, scalable, and clean applications.  
 I enjoy working with modern tech, learning new tools, and solving real problems that help people.
