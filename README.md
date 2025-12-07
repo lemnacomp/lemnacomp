@@ -38,5 +38,5 @@ When I’m not coding, I enjoy music, cooking, and exploring new ideas.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lemnacomp&theme=algolia&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lemnacomp&theme=nord&no-frame=false&no-bg=false&margin-w=4" />
 </div>
