@@ -32,7 +32,7 @@ When I’m not coding, I enjoy music, cooking, and exploring new ideas.
 ## 🛠️ Skills and Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,angular,vue,nextjs,nodejs,express,django,postgresql,mongodb,redis,docker,kubernetes,azure,git,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css,react,angular,vue,nextjs,nodejs,express,django,postgresql,mongodb,redis,docker,kubernetes,azure,git,figma,linux" />
 </div>
 
 ## 🏆 GitHub Trophies
