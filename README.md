@@ -6,13 +6,13 @@ I enjoy working with modern tech, learning new tools, and solving real problems 
 ## 🚀 My main skills
 
 ### 🧩 Languages  
-JavaScript, Python, TypeScript, HTML, CSS
+JavaScript, Python, Java, TypeScript, HTML, CSS
 
 ### 🖥️ Frontend  
 React, Angular, Vue, Next.js, TailwindCSS  
 
 ### ⚙️ Backend  
-Node.js, Express, Django  
+Django, Java, Node.js, Express  
 
 ### 🛠️ Tools & Platforms  
 AWS, Azure, Git, GitHub, Docker, Kubernetes, CI CD, Figma, Scrum  
@@ -38,5 +38,5 @@ When I’m not coding, I enjoy music, cooking, and exploring new ideas.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alhiky-es&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lemnacomp&theme=algolia&no-frame=false&no-bg=false&margin-w=4" />
 </div>
