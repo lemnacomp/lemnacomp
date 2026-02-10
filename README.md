@@ -1,4 +1,4 @@
-# Hi, I'm Antonio 👋  
+# Hi, I'm lemnacomp 👋  
 
 I'm a Software Engineer focused on building useful, scalable, and clean applications.  
 I enjoy working with modern tech, learning new tools, and solving real problems that help people.
@@ -15,12 +15,7 @@ React, Angular, Vue, Next.js, TailwindCSS
 Django, Java, Node.js, Express  
 
 ### 🛠️ Tools & Platforms  
-AWS, Azure, Git, GitHub, Docker, Kubernetes, CI CD, Figma, Scrum  
-
-## 📬 You can reach me at
-
-- **E mail** → antonioeleazer397@gmail.com  
-- **LinkedIn** → https://www.linkedin.com/in/antonio-eleazer-425095397          
+AWS, Azure, Git, GitHub, Docker, Kubernetes, CI CD, Figma, Scrum       
 
 
 ## ⭐ About Me
